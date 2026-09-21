@@ -1,5 +1,14 @@
 # Aprendizados verificados — Google Flow
 
+### 2026-09-21 — Skill/plugin público
+
+- Tipo: MELHOR PRÁTICA DERIVADA
+- Escopo: distribuição Codex de conhecimento Flow/Veo
+- Aprendizado: plugin com skill `flow` roteadora e skills especializadas reutiliza a RAG sem incluir mídia de produção.
+- Evidência: validadores oficiais passaram; repositório público criado e conteúdo remoto conferido.
+- Verificado em: 2026-09-21
+- Impacto: usar o plugin como ponto de entrada para futuros trabalhos `@flow`.
+
 Registro incremental de descobertas obtidas em trabalhos reais. Ele complementa a base canônica; não substitui a documentação oficial.
 
 ## Critérios de inclusão
